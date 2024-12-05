@@ -1,0 +1,2 @@
+# checkGitDebian
+setting up git
